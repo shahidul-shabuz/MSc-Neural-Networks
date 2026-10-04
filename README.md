@@ -7,7 +7,7 @@ My worked solutions for **CSE 6106: Neural Network** (M.Sc. in CSE, DUET), typed
 | **Course** | CSE 6106: Neural Network (3 credits) — M.Sc. in CSE, Dhaka University of Engineering & Technology (DUET) |
 | **Semester** | 1st semester, 2025–2026 |
 | **Course teacher** | Prof. Dr. Momotaz Begum, Head of the Department of Computer Science and Engineering, DUET |
-| **Grade** | A+ (GPA 4.00 / 4.00) |
+| **Grade** | A+ (above 90% marks; GPA 4.00 / 4.00) |
 
 ## What's inside
 
